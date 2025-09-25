@@ -37,6 +37,8 @@ Also tested it with Gargoyle's Quest (MBC1) and Rayman (MBC5), neither of which 
 
 Behaviour untested with other mappers.
 
+P.S. I loaded it up on my Gameboy Player through GBI, scrolled through the SRAM, took screenshots of it, then wrote the SRAM data manually into a hex editor on my PC. It came out ok.
+
 # Requirements:
 
 Requires [RGBDS](https://github.com/gbdev/rgbds/).
